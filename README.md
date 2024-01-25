@@ -1,0 +1,1 @@
+A simple dashboard in Vue + Tailwind as a personal project
